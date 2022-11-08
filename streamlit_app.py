@@ -10,7 +10,7 @@ url = "https://velog.velcdn.com/images/ball/post/939409c0-4b49-4614-b330-0161481
 st.image(url)
 
 # 버튼 넣기
-if st.button("click button"):
+if st.button("눌러 보세요."):
       st.write("여기엔 아무것도 없다..")
       # 데이터 로딩 함수는 여기에!
 
