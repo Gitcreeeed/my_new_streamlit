@@ -6,7 +6,7 @@ import numpy as np
 st.write("# 보험료 예측")
 st.write('> 빅데이터 웹앱')
 
-<img src="https://imgur.com/gallery/efT62Hi">
+st.image("https://i.imgur.com/efT62Hi.jpeg")
 
 # 첫번째 행
 r1_col1, r1_col2, r1_col3 = st.columns(3)
