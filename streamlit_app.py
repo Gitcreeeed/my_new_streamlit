@@ -15,9 +15,9 @@ if st.button("click button"):
 
 # 체크박스 넣기
 checkbox_btn = st.checkbox('조건에 해당되면 누르세요')
-	
-  if checkbox_btn:
-      st.write('Great!')
+
+if checkbox_btn:
+    st.write('Great!')
 
 # 첫번째 행
 r1_col1, r1_col2, r1_col3 = st.columns(3)
