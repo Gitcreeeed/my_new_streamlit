@@ -14,10 +14,10 @@ if st.button("click button"):
       # 데이터 로딩 함수는 여기에!
 
 # 체크박스 넣기
-checkbox_btn = st.checkbox('조건에 해당되면 누르세요')
+checkbox_btn = st.checkbox('당신은 건강합니까?')
 
 if checkbox_btn:
-    st.write('Great!')
+    st.write('Great! 축하드립니다.')
 
 # 첫번째 행
 r1_col1, r1_col2, r1_col3 = st.columns(3)
