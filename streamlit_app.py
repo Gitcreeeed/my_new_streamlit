@@ -8,6 +8,11 @@ st.write('> 빅데이터 웹앱')
 
 st.image("https://i.imgur.com/efT62Hi.jpeg")
 
+# 버튼 넣기
+if st.button("click button"):
+      st.write("여기엔 아무것도 없다..")
+      # 데이터 로딩 함수는 여기에!
+
 # 첫번째 행
 r1_col1, r1_col2, r1_col3 = st.columns(3)
 
