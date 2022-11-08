@@ -6,6 +6,8 @@ import numpy as np
 st.write("# 보험료 예측")
 st.write('> 빅데이터 웹앱')
 
+![Alt text](bigdata_16th/image.png)
+
 # 첫번째 행
 r1_col1, r1_col2, r1_col3 = st.columns(3)
 
