@@ -6,7 +6,8 @@ import numpy as np
 st.write("# 보험료 예측")
 st.write('> 빅데이터 웹앱')
 
-st.image("https://i.imgur.com/efT62Hi.jpeg")
+url = "https://velog.velcdn.com/images/ball/post/939409c0-4b49-4614-b330-0161481dbec1/image.png"
+st.image(url)
 
 # 버튼 넣기
 if st.button("click button"):
